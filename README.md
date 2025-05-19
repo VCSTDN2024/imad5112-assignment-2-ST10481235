@@ -38,3 +38,43 @@ The design on **Flash Card Quiz** was influenced by the key design features:
  
 3. **Simplicity**- the application is simple and effortless to ensure that it is compatible for all users to understand what is happening in the app.
 
+## 5. Screenshots and app demo
+### Screenshots:
+1.![Screenshot (14)](https://github.com/user-attachments/assets/073aca57-79a0-4a8c-98f0-0c0cfe74b4b4)
+The Home Page of the FlashCard Quiz Applications
+2. ![Screenshot (15)](https://github.com/user-attachments/assets/d5557818-99d3-44bb-a3f8-d7e3f038fc1e)
+Question 1 of the application
+3. ![Screenshot (16)](https://github.com/user-attachments/assets/1837d31e-6de1-42cb-a6b5-3aab6a8d6d58)
+Question 2 of the application
+4. ![Screenshot (17)](https://github.com/user-attachments/assets/98707e35-e8b2-4794-8744-a27a46bc210b)
+Question 3 of the application
+5. ![Screenshot (18)](https://github.com/user-attachments/assets/5919d44e-6686-4030-9b80-2d2e9ee7c071)
+Question 4 of the application
+6. ![Screenshot (19)](https://github.com/user-attachments/assets/d54c92cf-630b-4ee2-95bc-b37b22922d23)
+Question 5 of the application
+7. ![Screenshot (20)](https://github.com/user-attachments/assets/08e02b40-24da-4f57-bbea-b03aba247ec6)
+The final review page
+
+ ## 6. Challenges and Learnings
+During the development of this project, I encountered several challenges:
+
+**Challenge 1**: My application was having a problem running.
+**Solution**: With going through my code again, i realised that i made a couple minor errors that i could quickly fix.
+
+**Challenge 2**: I was having trouble perfecting my array statements in order for it to make sense.
+**Solution**: With the assistance of AI, i was shown some tips and proper methods of making a proper array and ensuring that it functions fully
+
+From these challenges, i fully learnt how to properly run my app and how to comfortable make array statements.
+
+## 7. Future enhancements
+Even though the current app provides the user with the key goal, there are many features that could be added to improve the application for the future.
+
+**Feature 1:**:Allow the questions to change order once the user restarts the quiz.
+**Feature 2:** Allowing users to restart with a new set of questions and not it only being the same five
+**Feature 3:** Allowing users to be able to use dark mode to save batter usage.
+
+These would improve the level of usability for the application in the future.
+
+## 8. References
+
+
