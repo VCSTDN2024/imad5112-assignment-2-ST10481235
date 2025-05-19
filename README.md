@@ -1,4 +1,4 @@
-# Flash Quiz App
+# FlashQuiz App
 **Tiara Anthony**
 **ST10481235**
 **Group 2**
@@ -8,35 +8,35 @@
 # 1. LINKS:
 
 
-# Project Overview
-The **Flash Quiz App** is a mobile application designed specifically for assignment 2 in the IMAD subject.
+# 2. Project Overview
+The **FlashQuiz App** is a mobile application designed specifically for assignment 2 in the IMAD subject.
 The application was developed using **Kotlin** and **Android Studio**.
 The applications main purpose is to test the knowledge of a user and how well they know their history. 
 The app shows five questions that are all based on the history of South Africa and past generations. All of the questions are based off of true and false and is easy for the user to access.
-The **Flash Quiz App** is an easy and effective application with a simple interface and clear instructions making it easy to understand the application.
+The **FlashQuiz App** is an easy and effective application with a simple interface and clear instructions making it easy to understand the application.
 This app was created to ensure that it meets the required standard for the assignment, ensuring that it is a functional and well-formed app.
 
  # 3. App purpose and features
 # Purpose:
-The purpose of The **Flash Quiz App** is to make users aware of how much knowledge they have on the history of the world helping them identify how they can improve 
+The purpose of The **FlashQuiz App** is to make users aware of how much knowledge they have on the history of the world helping them identify how they can improve 
 Enables the user to learn new things about certain questions that they may have not known the answer to.
 The user may also make the quiz fun and test their friends and family on the flash cards as well.
 The user is then able to see their score of how well they did on the quiz in the end and will be able to see which questions they may have answered wrong.
 
 # Key features:
-1. User Interface was made creatively with a straightforward input system that gives users a easy way to answer all the questions
+1. User Interface was made creatively with a straightforward input system that gives users an easy way to answer all the questions
 2. The questions are fairly easy and are true and false only, making it easy for the user to answer the questions
 3. The app gives the user a proper overview of the questions that the user answered correctly and the questions they can improve on.
 
 These features are key because they provide an uncomplicated applicati9on making it convenient for all users to use.
 
  # 4. Design considerations:
-The design on **Flash Card Quiz** was influenced by the key design features:
-1. **User interface**- which was designed to ensure the application is easy and efficient for users to use ensuring a manageable occurence
+The design on **FlashQuiz** was influenced by the key design features:
+1. **User interface**- which was designed to ensure the application is easy and efficient for users to use ensuring a manageable occurrence
    
 2. **App Responsiveness**- the response time of the app is rapid ensuring that it does not take up much of the users time or the battery life.
  
-3. **Simplicity**- the application is simple and effortless to ensure that it is compatible for all users to understand what is happening in the app.
+3. **Simplicity**- the application is simple and effortless to ensure that it is compatible for all user's to understand what is happening in the app.
 
 ## 5. Screenshots and app demo
 ### Screenshots:
@@ -65,7 +65,7 @@ During the development of this project, I encountered several challenges:
 **Solution**: With the assistance of AI, i was shown some tips and proper methods of making a proper array and ensuring that it functions fully
 
 **Challenge 3**: My score screen was not running.
-**Solution**: I had referrenced the wrong Activity into the intent and ended up having to change it to what i wanted to show.
+**Solution**: I had referenced the wrong Activity into the intent and ended up having to change it to what i wanted to show.
 
 From these challenges, i fully learnt how to properly run my app and how to comfortable make array statements as well as make my app creative.
 
@@ -84,7 +84,16 @@ These would improve the level of usability for the application in the future.
 2. *JetPunk, 2021. South Africa True or False?* [online]
    Available at: https://www.jetpunk.com/user-quizzes/273453/south-africa-true-or-false Accessed 19 May 2025
 
-## 9. Disclosure of AI Usage in my assessment:
+## 9. List of figures:
+**Figure 1:** Screenshot of the Home screen of the application.
+**Figure 2:** Screenshot of question 1 of the FlashQuiz application.
+**Figure 3:** Screenshot of question 2 of the FlashQuiz application.
+**Figure 4:** Screenshot of question 3 of the FlashQuiz application.
+**Figure 5:** Screenshot of question 4 of the FlashQuiz application.
+**Figure 6:** Screenshot of question 5 of the FlashQuiz application.
+**Figure 7:** Screenshot of the review screen of the application.
+
+## 10. Disclosure of AI Usage in my assessment:
 Whilst creating this application, AI has assisted me to ensure that the app has no errors. Below is where AI has helped me:
 
 **1. Sections where AI was generated**
@@ -96,7 +105,7 @@ Whilst creating this application, AI has assisted me to ensure that the app has 
 ChatGpt
 
 **3. Purpose/ Intention on using AI**
-Code assisstance- Helped form my arrays 
+Code assistance- Helped form my arrays 
 Brainstorming- Asked chatgpt for colour ideas and ideas on correct/ incorrect responses
 
 
