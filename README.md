@@ -91,19 +91,39 @@ Whilst creating this application, AI has assisted me to ensure that the app has 
 1. Used AI to explain arrays
 2. Asked AI for colour codes
 3. Ideas on correct/ incorrect responses
-4. 
 
 **2. AI tool used**
 ChatGpt
 
 **3. Purpose/ Intention on using AI**
-Code assisstance- Helped form my IF Statements and how to add a image background
-Brainstorming- Asked chatgpt for colour ideas and ideas on error handling messages
+Code assisstance- Helped form my arrays 
+Brainstorming- Asked chatgpt for colour ideas and ideas on correct/ incorrect responses
 
 
 **4. Dates accessed for AI**
-1. AI was accessed on the 27 March 2025 for IF statements
-2. AI was accessed on the 28 March 2025 for error handling 
-3. AI was accessed on the 1 April 2025 for colour ideas
+1. AI was accessed on the 28 April 2025 for arrays 
+2. AI was accessed on the 28 April 2025 for colour ideas  
+3. AI was accessed on the 5 May 2025 for easy responses
+
+**5. Screenshots of AI conversation**
+**1. Array Statements**
+![Screenshot (25)](https://github.com/user-attachments/assets/9c50d670-e25d-408a-9845-5407b1e76a35)
+![Screenshot (26)](https://github.com/user-attachments/assets/5deb7da5-92bd-4c67-ba4f-8b4a7eb9674d)
+![Screenshot (27)](https://github.com/user-attachments/assets/b24314b9-b56b-4412-afe6-cdba814d4b22)
+![Screenshot (28)](https://github.com/user-attachments/assets/ce746670-c4e2-41e3-8104-52a14ade15ab)
+
+**2. Colour code**
+![Screenshot (29)](https://github.com/user-attachments/assets/2342d63d-925c-4675-a32c-46d6135e1d8b)
+![Screenshot (30)](https://github.com/user-attachments/assets/435760ec-40da-4c60-87bc-4a03e06e13a9)
+
+**3. Correct/ incorrect responses**
+![Screenshot (31)](https://github.com/user-attachments/assets/6178a19a-8382-4ff4-99ec-160a71f5beba)
+![Screenshot (32)](https://github.com/user-attachments/assets/3114d539-28fc-4354-9494-38c5159ac188)
+
+
+
+
+
+
 
 
