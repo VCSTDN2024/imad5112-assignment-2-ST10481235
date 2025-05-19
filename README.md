@@ -64,7 +64,10 @@ During the development of this project, I encountered several challenges:
 **Challenge 2**: I was having trouble perfecting my array statements in order for it to make sense.
 **Solution**: With the assistance of AI, i was shown some tips and proper methods of making a proper array and ensuring that it functions fully
 
-From these challenges, i fully learnt how to properly run my app and how to comfortable make array statements.
+**Challenge 3**: My score screen was not running.
+**Solution**: I had referrenced the wrong Activity into the intent and ended up having to change it to what i wanted to show.
+
+From these challenges, i fully learnt how to properly run my app and how to comfortable make array statements as well as make my app creative.
 
 ## 7. Future enhancements
 Even though the current app provides the user with the key goal, there are many features that could be added to improve the application for the future.
@@ -76,5 +79,31 @@ Even though the current app provides the user with the key goal, there are many 
 These would improve the level of usability for the application in the future.
 
 ## 8. References
+1. *JetPunk, 2021. History True or False* [online]
+   Available at: https://www.jetpunk.com/quizzes/history-true-or-false-1 Accessed 19 May 2025
+2. *JetPunk, 2021. South Africa True or False?* [online]
+   Available at: https://www.jetpunk.com/user-quizzes/273453/south-africa-true-or-false Accessed 19 May 2025
+
+## 9. Disclosure of AI Usage in my assessment:
+Whilst creating this application, AI has assisted me to ensure that the app has no errors. Below is where AI has helped me:
+
+**1. Sections where AI was generated**
+1. Used AI to explain arrays
+2. Asked AI for colour codes
+3. Ideas on correct/ incorrect responses
+4. 
+
+**2. AI tool used**
+ChatGpt
+
+**3. Purpose/ Intention on using AI**
+Code assisstance- Helped form my IF Statements and how to add a image background
+Brainstorming- Asked chatgpt for colour ideas and ideas on error handling messages
+
+
+**4. Dates accessed for AI**
+1. AI was accessed on the 27 March 2025 for IF statements
+2. AI was accessed on the 28 March 2025 for error handling 
+3. AI was accessed on the 1 April 2025 for colour ideas
 
 
