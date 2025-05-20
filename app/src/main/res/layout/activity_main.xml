@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="22dp"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/GameSubject"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to the Flash Quiz Game"
+        android:textSize="22sp"
+        android:textStyle="bold|normal"
+        android:textColor="#BC13FE"
+        android:shadowColor="#E0BBE4"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="20"
+        android:layout_marginBottom="10dp" />
+
+    <EditText
+        android:id="@+id/GameDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="20"
+        android:text="A fun and educational game to increase your knowledge. Test how well you know the history from our past generations"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:textStyle="bold|italic"/>
+
+    <Button
+        android:id="@+id/StartBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:backgroundTint="#B026FF"
+        android:text="Start Game" />
+
+</LinearLayout >
